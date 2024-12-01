@@ -1,4 +1,4 @@
-/* Estilo general */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #2f2f2f;
@@ -90,8 +90,8 @@ p.biografia {
 }
 
 video#video1 {
-    width: 60%; /* Ajuste a 60% para hacerlo más pequeño */
-    max-width: 600px; /* Máximo tamaño del video */
+    width: 60%; 
+    max-width: 600px; 
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     animation: videoAnimacion 2s ease-in-out infinite;
@@ -121,7 +121,7 @@ video#video1 {
     color: #aaa;
 }
 
-/* Estilo para el cuadro de acciones (recuadro en la parte inferior) */
+
 .acciones {
     margin-top: 30px;
     padding: 20px;
@@ -169,9 +169,8 @@ video#video1 {
     background-color: #ff4500;
 }
 
-/* Botón que lleva a la sección de acción */
 .boton-ayudar {
-    background-color: #4CAF50; /* Verde que combina con el tema */
+    background-color: #4CAF50; 
     color: white;
     padding: 10px 20px;
     border: none;
@@ -186,7 +185,6 @@ video#video1 {
     background-color: #45a049;
 }
 
-/* Estilo para el cuadro de acción "¿Cómo puedes ayudar?" */
 .acciones ul {
     background-color: white;
     padding: 10px;
